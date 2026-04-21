@@ -1,0 +1,550 @@
+<div style="width: 1440px; background: white; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: center; gap: 50px; display: inline-flex">
+  <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+    <div data-property-1="default" style="align-self: stretch; min-height: 64px; padding-left: 20px; padding-right: 20px; background: #04AF9E; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 64px; padding-left: 16px; padding-right: 16px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Material Icons; font-weight: 400; line-height: 24px; word-wrap: break-word">menu_open</div>
+          <img style="width: 110px; height: 30.75px; position: relative" src="https://placehold.co/110x31" />
+        </div>
+        <div style="justify-content: flex-end; align-items: center; gap: 10px; display: flex">
+          <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="text-align: right; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Cassiano</div>
+          </div>
+          <div style="width: 24px; height: 24px; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Material Icons; font-weight: 400; line-height: 24px; word-wrap: break-word">logout</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div data-type="Page title" style="align-self: stretch; height: 120px; padding: 40px; background: #F5F5F5; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10); border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: flex">
+      <div style="width: 1268px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 34px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Cadastro de Pagamento</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1364px; justify-content: space-between; align-items: center; display: inline-flex">
+    <div data-expanded="False" data-filtered="False" data-hover="False" data-type="Default" style="width: 1292px; height: 56px; padding-left: 18px; padding-right: 18px; padding-top: 10px; padding-bottom: 10px; border-radius: 4px; outline: 1px #CACACA solid; outline-offset: -1px; justify-content: space-between; align-items: center; display: flex">
+      <div style="justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.38); font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Filtrar</div>
+      <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 24px; font-family: Material Icons; font-weight: 400; line-height: 24px; word-wrap: break-word">search</div>
+    </div>
+    <div data-default="True" data-hover="False" data-inactive="False" data-selected="False" data-type="Positive/Elipse" style="width: 54px; height: 54px; padding: 10px; background: #04AF9E; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.30); border-radius: 40px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="align-self: stretch; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Material Icons; font-weight: 400; line-height: 24px; word-wrap: break-word">add</div>
+    </div>
+  </div>
+  <div style="width: 1364px; flex-direction: column; justify-content: flex-start; align-items: flex-end; gap: 10px; display: flex">
+    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="False" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="True" style="width: 237px; height: 40px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Nome</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="False" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="True" style="width: 381px; height: 40px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Tipo Pagamento</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="False" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="True" style="width: 187px; height: 40px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Data início</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="False" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="True" style="width: 187px; height: 40px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Data fim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="False" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="True" style="width: 187px; height: 40px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Ativo</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="False" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="True" style="width: 187px; height: 40px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Ações</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Cooperativa</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Escala e Complemento</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Transportador</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Complemento</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Itambé Alimentos</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Escala e Compl. 1 Itambé Alimentos</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Complemento 2 Itambé Alimentos</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Complemento 2 Itambé Alimentos</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Complemento 2 Itambé Alimentos</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 237px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Março - 1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 381px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Pagamento Complemento 2 Itambé Alimentos</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">31/03/1994</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="False" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 321px; padding-bottom: 321px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #04AF9E; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sim</div>
+            </div>
+          </div>
+        </div>
+        <div data-button="True" data-content="True" data-hover="False" data-icon="False" data-selection="False" data-status="False" data-title="False" style="width: 187px; height: 52px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; background: white; outline: 1px rgba(0, 0, 0, 0.38) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 20px; display: flex">
+            <div style="background: #04AF9E; border-radius: 9999px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: #FAFAFA; font-size: 20px; font-family: Material Icons; font-weight: 400; word-wrap: break-word">more_horiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+      <div style="justify-content: flex-start; align-items: center; gap: 38px; display: flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--Cores-CCPR-black-black-87%, rgba(0, 0, 0, 0.87)); font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Itens por página:</div>
+        <div data-menu-visível="False" data-status="10" style="width: 98px; height: 52px; padding-left: 16px; padding-right: 16px; border-radius: 4px; outline: 1px #CACACA solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 24px; display: flex">
+          <div style="width: 27px; justify-content: center; display: flex; flex-direction: column; color: var(--Cores-CCPR-black-black-87%, rgba(0, 0, 0, 0.87)); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">10</div>
+          <div style="width: 24px; height: 24px; padding: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 10px; height: 5px; background: var(--Cores-CCPR-black-black-54%, rgba(0, 0, 0, 0.54))"></div>
+          </div>
+        </div>
+      </div>
+      <div data-página="1" style="justify-content: flex-start; align-items: center; gap: 32px; display: flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--Cores-CCPR-black-black-87%, rgba(0, 0, 0, 0.87)); font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Página 1 de 4</div>
+        <div data-ativo="Direita" data-hover="false" style="justify-content: flex-start; align-items: center; gap: 19px; display: flex">
+          <div style="width: 32px; padding: 10px; border-radius: 25px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 12.41px; height: 12px; background: var(--Cores-CCPR-black-black-12%, rgba(0, 0, 0, 0.12))"></div>
+          </div>
+          <div style="width: 32px; padding: 10px; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div style="width: 7.41px; height: 12px; background: var(--Cores-CCPR-black-black-12%, rgba(0, 0, 0, 0.12))"></div>
+          </div>
+          <div style="width: 32px; padding: 10px; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div style="width: 7.41px; height: 12px; background: var(--Cores-CCPR-black-black-54%, rgba(0, 0, 0, 0.54))"></div>
+          </div>
+          <div style="width: 32px; padding: 10px; border-radius: 25px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 12.41px; height: 12px; background: var(--Cores-CCPR-black-black-54%, rgba(0, 0, 0, 0.54))"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
